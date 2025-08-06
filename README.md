@@ -61,6 +61,10 @@
 
 ![Chaitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitalijadhav&show_icons=true&theme=radical)
 
+![Java](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitalijadhav&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitalijadhav&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitalijadhav&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitalijadhav&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitalijadhav&layout=compact&theme=radical)
 
 
