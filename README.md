@@ -60,6 +60,6 @@
 ## 📈 GitHub Stats
 
 ![Chaitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitalijadhav&show_icons=true&theme=radical)
-![java][python](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitalijadhav&layout=compact&theme=radical)
+![Top Languages][python](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitalijadhav&layout=compact&theme=radical)
 
 
